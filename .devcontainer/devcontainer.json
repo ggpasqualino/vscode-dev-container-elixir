@@ -1,0 +1,13 @@
+{
+    "name": "VSCode Dev Container - Elixir",
+    "dockerComposeFile": [
+        "docker-compose.yml"
+    ],
+    "extensions": [
+        "elixir-lsp.elixir-ls",
+        "ms-azuretools.vscode-docker"
+    ],
+    "service": "app",
+    "workspaceFolder": "/workspace",
+    "shutdownAction": "stopCompose"
+}
