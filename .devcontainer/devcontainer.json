@@ -4,7 +4,7 @@
         "docker-compose.yml"
     ],
     "extensions": [
-        "elixir-lsp.elixir-ls",
+        "jakebecker.elixir-ls",
         "ms-azuretools.vscode-docker"
     ],
     "service": "app",
